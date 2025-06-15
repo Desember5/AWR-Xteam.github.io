@@ -22,5 +22,4 @@ Firmware terbaru untuk Hana-Transceiver dengan peningkatan fitur dan stabilitas.
 <h3>👨‍💻 PENGEMBANG</h3>
 <p>
 <strong>Aditya W.R</strong> 📍 Cirebon – 2025<br>
-🔗 GitHub: <a href="https://github.com/CRBN-2025">@CRBN-2025</a>
 </p>
