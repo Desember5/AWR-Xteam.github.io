@@ -1,7 +1,7 @@
 <h1 align="center">AWR-Xteam.github.io</h1>
 <hr>
 
-<h3>📡 FRIMWARE HANA-TRANSCEIVER V2.5</h3>
+<h3>📡 FRIMWARE HANA-TRANSCEIVER V2.5.1</h3>
 <p>
 Firmware terbaru untuk Hana-Transceiver dengan peningkatan fitur dan stabilitas. Dirancang untuk pengendalian radio via CAT dan pembaruan langsung melalui internet.
 </p>
